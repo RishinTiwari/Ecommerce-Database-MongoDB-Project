@@ -1,0 +1,120 @@
+[{
+  "_id": {
+    "$oid": "654c483fff5785af88b6ef9f"
+  },
+  "TransactionID": 1,
+  "TransactionDate": "2023-11-08",
+  "CustomerName": "John Doe",
+  "Product": "Product A",
+  "Quantity": 5,
+  "UnitPrice": 10.99,
+  "TotalAmount": 54.95
+},
+{
+  "_id": {
+    "$oid": "654c483fff5785af88b6efa0"
+  },
+  "TransactionID": 2,
+  "TransactionDate": "2023-11-08",
+  "CustomerName": "Jane Smith",
+  "Product": "Product B",
+  "Quantity": 3,
+  "UnitPrice": 12.99,
+  "TotalAmount": 38.97
+},
+{
+  "_id": {
+    "$oid": "654c483fff5785af88b6efa1"
+  },
+  "TransactionID": 3,
+  "TransactionDate": "2023-11-09",
+  "CustomerName": "Bob Johnson",
+  "Product": "Product C",
+  "Quantity": 2,
+  "UnitPrice": 8.49,
+  "TotalAmount": 16.98
+},
+{
+  "_id": {
+    "$oid": "654c483fff5785af88b6efa2"
+  },
+  "TransactionID": 4,
+  "TransactionDate": "2023-11-09",
+  "CustomerName": "Alice Brown",
+  "Product": "Product D",
+  "Quantity": 7,
+  "UnitPrice": 5.99,
+  "TotalAmount": 41.93
+},
+{
+  "_id": {
+    "$oid": "654c483fff5785af88b6efa3"
+  },
+  "TransactionID": 5,
+  "TransactionDate": "2023-11-10",
+  "CustomerName": "Mike Wilson",
+  "Product": "Product E",
+  "Quantity": 4,
+  "UnitPrice": 14.99,
+  "TotalAmount": 59.96
+},
+{
+  "_id": {
+    "$oid": "654c483fff5785af88b6efa4"
+  },
+  "TransactionID": 6,
+  "TransactionDate": "2023-11-10",
+  "CustomerName": "Lisa Davis",
+  "Product": "Product F",
+  "Quantity": 2,
+  "UnitPrice": 18.99,
+  "TotalAmount": 37.98
+},
+{
+  "_id": {
+    "$oid": "654c483fff5785af88b6efa5"
+  },
+  "TransactionID": 7,
+  "TransactionDate": "2023-11-11",
+  "CustomerName": "Sam Roberts",
+  "Product": "Product G",
+  "Quantity": 3,
+  "UnitPrice": 22.49,
+  "TotalAmount": 67.47
+},
+{
+  "_id": {
+    "$oid": "654c483fff5785af88b6efa6"
+  },
+  "TransactionID": 8,
+  "TransactionDate": "2023-11-11",
+  "CustomerName": "Laura White",
+  "Product": "Product H",
+  "Quantity": 1,
+  "UnitPrice": 9.99,
+  "TotalAmount": 9.99
+},
+{
+  "_id": {
+    "$oid": "654c483fff5785af88b6efa7"
+  },
+  "TransactionID": 9,
+  "TransactionDate": "2023-11-12",
+  "CustomerName": "Mark Johnson",
+  "Product": "Product I",
+  "Quantity": 6,
+  "UnitPrice": 7.49,
+  "TotalAmount": 44.94
+},
+{
+  "_id": {
+    "$oid": "654c483fff5785af88b6efa8"
+  },
+  "TransactionID": 10,
+  "TransactionDate": "2023-11-12",
+  "CustomerName": "Emily Lee",
+  "Product": "Product J",
+  "Quantity": 4,
+  "UnitPrice": 11.99,
+  "TotalAmount": 47.96
+}]

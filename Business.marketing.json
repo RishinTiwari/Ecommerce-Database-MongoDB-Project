@@ -1,0 +1,100 @@
+[{
+  "_id": {
+    "$oid": "654c4c88ff5785af88b6efc2"
+  },
+  "CampaignID": 11,
+  "CampaignName": "Spring Sale",
+  "StartDate": "2023-04-01",
+  "EndDate": "2023-05-31",
+  "Budget": 7500
+},
+{
+  "_id": {
+    "$oid": "654c4c88ff5785af88b6efc3"
+  },
+  "CampaignID": 12,
+  "CampaignName": "Independence Day",
+  "StartDate": "2023-07-01",
+  "EndDate": "2023-07-04",
+  "Budget": 4000
+},
+{
+  "_id": {
+    "$oid": "654c4c88ff5785af88b6efc4"
+  },
+  "CampaignID": 13,
+  "CampaignName": "Back to School",
+  "StartDate": "2023-08-15",
+  "EndDate": "2023-09-15",
+  "Budget": 5500
+},
+{
+  "_id": {
+    "$oid": "654c4c88ff5785af88b6efc5"
+  },
+  "CampaignID": 14,
+  "CampaignName": "Labor Day Sale",
+  "StartDate": "2023-09-01",
+  "EndDate": "2023-09-05",
+  "Budget": 4800
+},
+{
+  "_id": {
+    "$oid": "654c4c88ff5785af88b6efc6"
+  },
+  "CampaignID": 15,
+  "CampaignName": "Halloween Promotion",
+  "StartDate": "2023-10-01",
+  "EndDate": "2023-10-31",
+  "Budget": 6000
+},
+{
+  "_id": {
+    "$oid": "654c4c88ff5785af88b6efc7"
+  },
+  "CampaignID": 16,
+  "CampaignName": "Fall Discounts",
+  "StartDate": "2023-10-15",
+  "EndDate": "2023-11-15",
+  "Budget": 6500
+},
+{
+  "_id": {
+    "$oid": "654c4c88ff5785af88b6efc8"
+  },
+  "CampaignID": 17,
+  "CampaignName": "Black Friday",
+  "StartDate": "2023-11-24",
+  "EndDate": "2023-11-27",
+  "Budget": 7000
+},
+{
+  "_id": {
+    "$oid": "654c4c88ff5785af88b6efc9"
+  },
+  "CampaignID": 18,
+  "CampaignName": "Cyber Monday",
+  "StartDate": "2023-11-28",
+  "EndDate": "2023-11-28",
+  "Budget": 4200
+},
+{
+  "_id": {
+    "$oid": "654c4c88ff5785af88b6efca"
+  },
+  "CampaignID": 19,
+  "CampaignName": "Holiday Season",
+  "StartDate": "2023-12-01",
+  "EndDate": "2023-12-31",
+  "Budget": 8500
+},
+{
+  "_id": {
+    "$oid": "654c4c88ff5785af88b6efcb"
+  },
+  "CampaignID": 20,
+  "CampaignName": "New Year Countdown",
+  "StartDate": "2023-12-31",
+  "EndDate": "2024-01-01",
+  "Budget": 5500
+}]

@@ -1,0 +1,11 @@
+_id,ItemID,ItemName,Category,Price,StockQuantity
+654c48dcff5785af88b6efad,1,Product A,Electronics,499.99,100
+654c48dcff5785af88b6efae,2,Product B,Clothing,29.99,50
+654c48dcff5785af88b6efaf,3,Product C,Home & Garden,79.99,75
+654c48dcff5785af88b6efb0,4,Product D,Electronics,299.99,30
+654c48dcff5785af88b6efb1,5,Product E,Clothing,39.99,60
+654c48dcff5785af88b6efb2,6,Product F,Electronics,199.99,45
+654c48dcff5785af88b6efb3,7,Product G,Home & Garden,89.99,80
+654c48dcff5785af88b6efb4,8,Product H,Clothing,49.99,55
+654c48dcff5785af88b6efb5,9,Product I,Electronics,99.99,40
+654c48dcff5785af88b6efb6,10,Product J,Home & Garden,129.99,70

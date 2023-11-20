@@ -1,0 +1,100 @@
+[{
+  "_id": {
+    "$oid": "654c48dcff5785af88b6efad"
+  },
+  "ItemID": 1,
+  "ItemName": "Product A",
+  "Category": "Electronics",
+  "Price": 499.99,
+  "StockQuantity": 100
+},
+{
+  "_id": {
+    "$oid": "654c48dcff5785af88b6efae"
+  },
+  "ItemID": 2,
+  "ItemName": "Product B",
+  "Category": "Clothing",
+  "Price": 29.99,
+  "StockQuantity": 50
+},
+{
+  "_id": {
+    "$oid": "654c48dcff5785af88b6efaf"
+  },
+  "ItemID": 3,
+  "ItemName": "Product C",
+  "Category": "Home & Garden",
+  "Price": 79.99,
+  "StockQuantity": 75
+},
+{
+  "_id": {
+    "$oid": "654c48dcff5785af88b6efb0"
+  },
+  "ItemID": 4,
+  "ItemName": "Product D",
+  "Category": "Electronics",
+  "Price": 299.99,
+  "StockQuantity": 30
+},
+{
+  "_id": {
+    "$oid": "654c48dcff5785af88b6efb1"
+  },
+  "ItemID": 5,
+  "ItemName": "Product E",
+  "Category": "Clothing",
+  "Price": 39.99,
+  "StockQuantity": 60
+},
+{
+  "_id": {
+    "$oid": "654c48dcff5785af88b6efb2"
+  },
+  "ItemID": 6,
+  "ItemName": "Product F",
+  "Category": "Electronics",
+  "Price": 199.99,
+  "StockQuantity": 45
+},
+{
+  "_id": {
+    "$oid": "654c48dcff5785af88b6efb3"
+  },
+  "ItemID": 7,
+  "ItemName": "Product G",
+  "Category": "Home & Garden",
+  "Price": 89.99,
+  "StockQuantity": 80
+},
+{
+  "_id": {
+    "$oid": "654c48dcff5785af88b6efb4"
+  },
+  "ItemID": 8,
+  "ItemName": "Product H",
+  "Category": "Clothing",
+  "Price": 49.99,
+  "StockQuantity": 55
+},
+{
+  "_id": {
+    "$oid": "654c48dcff5785af88b6efb5"
+  },
+  "ItemID": 9,
+  "ItemName": "Product I",
+  "Category": "Electronics",
+  "Price": 99.99,
+  "StockQuantity": 40
+},
+{
+  "_id": {
+    "$oid": "654c48dcff5785af88b6efb6"
+  },
+  "ItemID": 10,
+  "ItemName": "Product J",
+  "Category": "Home & Garden",
+  "Price": 129.99,
+  "StockQuantity": 70
+}]
